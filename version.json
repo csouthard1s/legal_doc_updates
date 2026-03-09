@@ -2,7 +2,7 @@
   "latest_version": "1.0.5",
   "filename": "legal_app_1.0.5.exe",
   "sha256": "FILL_IN",
-  "rollback_from": [None]
+  "rollback_from": [None],
   "rollback_to": None,
-  "rollback_sha256": None
+  "rollback_sha256": None,
 }
